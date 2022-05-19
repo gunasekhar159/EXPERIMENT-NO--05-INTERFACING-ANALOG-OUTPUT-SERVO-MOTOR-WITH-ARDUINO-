@@ -89,7 +89,7 @@ for (int i=180; i>=0; i-=1)
 }
 ```
 ## OUTPUT:
-![output](?raw=true)
+![output](https://github.com/gunasekhar159/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/blob/main/33.png?raw=true)
  
 
 
